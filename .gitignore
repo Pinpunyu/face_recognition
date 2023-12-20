@@ -1,4 +1,6 @@
 img
 datasets_cropped
-datasets/*
-test.ipynb
+datasets/*/
+__pycache__
+result/*.jpg
+unknown
