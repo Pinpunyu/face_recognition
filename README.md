@@ -27,7 +27,6 @@ python sign_up_user.py --name username
 
 
 ### face Recognition 
-(retinaface 內存無法負載)
 ```
 python face_recognition.py -i img_path -r result_path
 python face_recognition.py -i ./img/unknown/P1.jpg -r ./result/P1.jpg
