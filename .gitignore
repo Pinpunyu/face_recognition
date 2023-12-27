@@ -1,6 +1,4 @@
 img
-datasets_cropped
 datasets/*/
 __pycache__
 result/*.jpg
-unknown
